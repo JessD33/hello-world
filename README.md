@@ -1,8 +1,3 @@
 # hello-world
-*For practising GitHub*
-
-## AI for the Arts and Humanities 
-
-This trial is ***really important***.
-
-> Alfie followed Biffard through many of the beautiful rooms in his castle.
+For practising GitHub,
+I am Jess I study at Glasgow University
