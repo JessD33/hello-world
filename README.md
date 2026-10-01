@@ -1,8 +1,9 @@
-# hello-world
+
 *For practising GitHub*
 
-## AI for the Arts and Humanities 
+## AI for the Arts and Humanities Portfolio
 
-This trial is ***really important***.
-
-> Alfie followed Biffard through many of the beautiful rooms in his castle.
+> The purpose of my repository is to log all developments of my learning in the **'AI for the Arts & Humanities'** course. My Goals are to 
+>> - Fully Understand what Github is.
+>> - Understand Machine Learning.
+>> -   Do the recommended readings.
