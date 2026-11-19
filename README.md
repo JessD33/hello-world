@@ -7,3 +7,6 @@
 >> - Fully Understand what Github is.
 >> - Understand Machine Learning.
 >> -   Do the recommended readings.
+
+
+## 3 Notebooks included: Critical Reflection on AI, Understanding of Programming Concepts and Understanding of Machine Learning. Each notebook displays all my work and knowledge on these topics.
